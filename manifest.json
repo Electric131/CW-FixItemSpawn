@@ -1,0 +1,10 @@
+{
+    "name": "TrueScore",
+    "author": "Electric131",
+    "website_url": "https://github.com/Electric131/CW-FixItemSpawn",
+    "version_number": "1.0.0",
+    "description": "Move the item spawner in the dropship closer to the button.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
